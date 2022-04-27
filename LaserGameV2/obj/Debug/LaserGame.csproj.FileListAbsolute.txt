@@ -1,0 +1,314 @@
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.csprojAssemblyReference.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\MainWindow.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\App.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.lref
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame_Content.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\LaserGame.exe.config
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\LaserGame.exe
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\LaserGame.pdb
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\MainWindow.baml
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.g.resources
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.csproj.CopyComplete
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.exe
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\LaserGameSERVER\server\LaserGame\obj\Debug\LaserGame.pdb
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csprojAssemblyReference.cache
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.g.cs
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\App.g.cs
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_Content.g.cs
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.cache
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.lref
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.exe
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.pdb
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe.config
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.pdb
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.baml
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.g.resources
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.CopyComplete
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe.config
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.pdb
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csprojAssemblyReference.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\App.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_Content.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.lref
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.baml
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.g.resources
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.CopyComplete
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.exe
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.pdb
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\CustomMessageBoxWindow.baml
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\CustomMessageBoxWindow.g.cs
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Newtonsoft.Json.dll
+P:\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Newtonsoft.Json.xml
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\LaserGame.exe.config
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\LaserGame.exe
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\LaserGame.pdb
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Newtonsoft.Json.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Newtonsoft.Json.xml
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csprojAssemblyReference.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\CustomMessageBoxWindow.baml
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\CustomMessageBoxWindow.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\MainWindow.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\App.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame_Content.g.cs
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.lref
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\MainWindow.baml
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.g.resources
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csproj.CopyComplete
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.exe
+\\HYSTOU\alex\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.pdb
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\LaserGame.exe.config
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\LaserGame.exe
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\LaserGame.pdb
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Newtonsoft.Json.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\Newtonsoft.Json.xml
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csprojAssemblyReference.cache
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\CustomMessageBoxWindow.baml
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\CustomMessageBoxWindow.g.cs
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\MainWindow.g.cs
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\App.g.cs
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame_Content.g.cs
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.cache
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.lref
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\MainWindow.baml
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.g.resources
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.csproj.CopyComplete
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.exe
+P:\ARCHIVE\Dev\LASER GAME - 2021-03-22\server\LaserGame\obj\Debug\LaserGame.pdb
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\node.exe
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe.config
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.pdb
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Newtonsoft.Json.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Newtonsoft.Json.xml
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csprojAssemblyReference.cache
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\CustomMessageBoxWindow.baml
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\CustomMessageBoxWindow.g.cs
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.g.cs
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\App.g.cs
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_Content.g.cs
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.cache
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.lref
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.baml
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.g.resources
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.CopyComplete
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.exe
+D:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.pdb
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe.config
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.exe
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\LaserGame.pdb
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Newtonsoft.Json.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\Newtonsoft.Json.xml
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.AssemblyReference.cache
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\CustomMessageBoxWindow.baml
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\CustomMessageBoxWindow.g.cs
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.g.cs
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\App.g.cs
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_Content.g.cs
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.cache
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame_MarkupCompile.lref
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\MainWindow.baml
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.g.resources
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.Properties.Resources.resources
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.GenerateResource.cache
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.exe
+F:\alex\ARCHIVE\Dev\LASER GAME\server\LaserGame\obj\Debug\LaserGame.pdb
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame.csproj.AssemblyReference.cache
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\CustomMessageBoxWindow.baml
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\CustomMessageBoxWindow.g.cs
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\MainWindow.g.cs
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\App.g.cs
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame_Content.g.cs
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame_MarkupCompile.cache
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame_MarkupCompile.lref
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame.exe
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame.pdb
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\LaserGame.exe.config
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\LaserGame.exe
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\LaserGame.pdb
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Newtonsoft.Json.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Xceed.Wpf.Toolkit.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\Newtonsoft.Json.xml
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\MainWindow.baml
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame.g.resources
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame.Properties.Resources.resources
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame.csproj.GenerateResource.cache
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\obj\Debug\LaserGame.csproj.CoreCompileInputs.cache
+X:\laser game\SERVEUR\SharpV2\LaserGameV2\bin\Debug\node.exe
